@@ -1,6 +1,6 @@
-# Bleuport
+# Marco Ilunga — Portfolio
 
-Portfolio éditorial mono-page inspiré des portfolios créatifs à forte direction artistique. Le site mélange une typographie expressive, une palette papier/encre/bleu électrique, des images éditoriales, une navigation fixe et des animations au défilement.
+Portfolio éditorial mono-page pour Marco Ilunga, avec une direction artistique noir, papier et bleu électrique. Le site combine une typographie expressive, un avatar IT non identifiable, une navigation fixe, des animations au défilement et une présentation de projets web.
 
 ## Développement
 
@@ -21,8 +21,9 @@ pnpm preview
 ## Structure
 
 - `src/main.jsx` contient la structure React, les données de projets et les interactions.
-- `src/styles.css` contient la direction artistique responsive, les composants visuels et les animations.
+- `src/styles.css` contient la direction artistique responsive, le système d’identité et les animations.
+- `public/marco-logo.svg` est le logo adaptable de Marco Ilunga, utilisable en favicon ou dans des interfaces claires/sombres.
 - `public/manus-routes.json` déclare la route publique `/`.
 - `app.config.ts` porte le logo de projet utilisé par la plateforme.
 
-Les images de démonstration sont des visuels éditoriaux externes et pourront être remplacés par les portraits, logos et projets réels lors de la prochaine passe de personnalisation.
+L’avatar IT est une image de démonstration non identifiable et peut rester en place tant qu’une photo personnelle n’est pas souhaitée. Le contenu du dépôt privé `the-mulopwe` n’a pas encore pu être importé car GitHub renvoie actuellement une page 404 non authentifiée pour cette session.

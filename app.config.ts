@@ -1,3 +1,3 @@
 export default {
-  logoUrl: "https://placehold.co/256x256/111111/ffffff.png?text=B"
+  logoUrl: "https://files.manuscdn.com/user_upload_by_module/session_file/310519664039605441/wxoTzrGAYqXxfAsS.svg"
 };
